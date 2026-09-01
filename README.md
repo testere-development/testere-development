@@ -1,9 +1,8 @@
-<h1 align="center">Hi , I'm Rzalı</h1>
+<h1 align="center">Hi , I'm Testere</h1>
 <h3 align="center">A passionate frontend developer from Azerbayjan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=testere-development&label=Profile%20views&color=0e75b6&style=flat" alt="testere-development" /> </p>
 
-- 📫 How to reach me **cyberionxxx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
